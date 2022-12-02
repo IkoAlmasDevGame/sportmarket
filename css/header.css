@@ -1,0 +1,22 @@
+#active {
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    width: 70%;
+    left: 15px;
+}
+
+.box {
+    border: 1.5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-spacing: 2px;
+    background: rgba(100, 100, 100, 0.55);
+
+    left: 5px;
+}
+
+body {
+    background: linear-gradient(190deg, rgba(107, 151, 165, 0.52), rgba(100, 100, 100, 0.25));
+}
